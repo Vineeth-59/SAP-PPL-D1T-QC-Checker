@@ -1,4 +1,4 @@
-# SAP PPL QC Checker V1
+# SAP PPL QC Checker
 
 Upload a PPL Excel and a D1T Excel export. Select T-Code, Company Code and optional Value Stream, then run QC.
 
